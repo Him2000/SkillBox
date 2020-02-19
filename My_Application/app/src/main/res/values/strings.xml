@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My_Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_test_string">Светло</string>
+    
+    <plurals name="name_plural_string">
+        <item quantity="one">%1$d значение</item>
+        <item quantity="few">%1$d значения</item>
+        <item quantity="other">%1$d значений</item>
+    </plurals>
+
+
+    </resources>
